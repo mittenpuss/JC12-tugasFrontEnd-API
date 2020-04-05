@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "username": "angga",
+      "email": "anggaa_wijaya@yahoo.com",
+      "password": "mantap",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "username": "budi",
+      "email": "budi@yahoo.com",
+      "password": "itu",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "made",
+      "email": "made@gmail.com",
+      "password": "ketut",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "putri",
+      "email": "putri@gmail.com",
+      "password": "ariyanti",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "miong",
+      "email": "miong@gmail.com",
+      "password": "miong",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "coursebali": [
+    {
+      "id":1,
+      "image": "https://titan.email/wp-content/uploads/2019/12/email-introduction.png",
+      "topic": "Memperkenalkan Diri"
+    },
+    {
+      "id":2,
+      "image": "https://cdn.wpforms.com/wp-content/uploads/2017/04/thank-you-page-examples.jpg",
+      "topic": "Mengucapkan Terima kasih"   
+    },
+    {
+      "id":3,
+      "image": "https://media.lifehack.org/wp-content/files/2018/03/27233542/powerful-daily-routine.001-370x208@2x.jpeg",
+      "topic": "Kegiatan Sehari-hari"   
+    }
+  ],
+  "isicourse":[
+    {
+      "id":1,
+      "kodeVideo":"U8cBJFLnTs4",
+      "dialogsatu": [
+        "Ayu: Om Swastiastu.",
+        "Ayu: nawegan, dados tiang metaken? (Permisi, bolehkah saya bertanya?)",
+        "Wisnu: Om Swastiastu . Nggih rarisan, napi jagi matakenan? (Iya silahkan, apa yang mau ditanyakan?)",
+        "Ayu: titian jagi melali ke pantai Mengening. (Saya ingin pergi ke pantai Mengening.)",
+        "Ayu: Ring dije margine ngih? (Arahnya kemana ya?)",
+        "Wisnu: Saking driki, meneng ngauhan. (Dari sini, pergi ke barat).",
+        "Wisnu: Busan nike, wenten pateluan, raris belok simpang kiri. (Setelah itu, ada pertigaan, lalu belok kiri).",
+        "Wisnu: Drika wenten tanda lalu lintas, lurus kemanten. (Disana ada tanda lalu lintas, lurus saja).",
+        "Ayu: Kari joh nggih? (Masih jauh ya?)",
+        "Wisnu: Ten, nampek saking diriki. (Tidak, dekat dari sini).",
+        "Wisnu: Tiang taler jagi ke pantai Mengening. (Saya juga mau ke pantai Mengening).",
+        "Wisnu: Ngiring lunga sareng titian kemanten. (Ayo bareng berangkat dengan saya).",
+        "Wisnu: Dados titian uning, sire pesenggan ragane? (Boleh saya tahu nama anda?)",
+        "Ayu: Wastan titian Ayu. (Nama saya Ayu.)",
+        "Ayu: Ragane sira pesengganne? (Nama anda siapa?)",
+        "Wisnu: wastan titian Wisnu. (Nama saya Wisnu.)",
+        "Wisnu: Ayu mawit saking napi? (Ayu, asalnya dari mana?)",
+        "Ayu: Tiang saking Karangasem. (Saya dari Karangasem).",
+        "Wisnu: Sampun suwe diriki? (Sudah lama disini?)",
+        "Ayu: Tiang di Badung wawu kalih minggu. (Saya di Badung baru dua minggu).",
+        "Wisnu: Oh kenten, nyening kenten, ngiring ke pantai ngih. (Oh begitu, kalau begitu, ayo kita ke pantai)."
+      ],
+      "KosakataBaliSatu":[
+        "Adan tiang ketut",
+        "Om Swastiastu",
+        "Tiang suba nganten",
+        "Tiang uli Amerika",
+        "Luung sajan",
+        "Tiang lakar ke Kuta",
+        "Kal kija?",
+        "Uli dija?",
+        "Ken ken kabare?", 
+        "Nyen adane?",
+        "Suba nganten?"
+      ],
+      "KosakataIndonesiaSatu":[
+        "Nama saya Ketut",
+        "Semoga damai selalu",
+        "Saya sudah menikah",
+        "Saya dari amerika",
+        "Bagus Sekali",
+        "Saya mau pergi ke Kuta",
+        "Mau kemana?",
+        "Dari mana?",
+        "Apa Kabar?", 
+        "Siapa Namanya?",
+        "Sudah menikah?"
+      ],
+      "jawabanKosakataSatu":"Adan tiang ketut Om Swastiastu Tiang suba nganten Tiang uli Amerika Luung sajan Tiang lakar ke Kuta Kal kija? Uli dija? Ken ken kabare? Nyen adane? Suba nganten?" 
+    }
+  ]
+}
